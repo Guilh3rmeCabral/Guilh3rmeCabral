@@ -21,6 +21,4 @@
 <a href="https://www.linkedin.com/in/guilherme-cabral-971994209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-  ## Atualizações...
 
-  ![Snake animation](https://github.com/Guilh3rmeCabral/Guilh3rmeCabral/blob/output/github-contribution-grid-snake.svg)
