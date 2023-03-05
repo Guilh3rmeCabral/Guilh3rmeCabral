@@ -12,6 +12,7 @@
   <a href="https://github.com/Guilh3rmeCabral"><img alt="Guilh3rmeCabral Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilh3rmeCabral&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Guilh3rmeCabral"><img alt="Guilh3rmeCabral Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilh3rmeCabral&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
 </div>
+
 <!--Social Links-->
 ## Social Links 
 
