@@ -8,6 +8,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=High%20school%20Descomplica;Web%20and%20app%20developer;Drummer;Designer;Minecraft%20enthusiast%20%3A)&font=Fira%20Code&center=true&color=f75c7e&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/Guilh3rmeCabral"><img alt="Guilh3rmeCabral Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilh3rmeCabral&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Guilh3rmeCabral"><img alt="Guilh3rmeCabral Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilh3rmeCabral&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+</div>
 <!--Social Links-->
 ## Social Links 
 
@@ -34,8 +38,7 @@
   <img align="center" alt="Gui-MySql" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 </div>
   
-<a href="https://github.com/Guilh3rmeCabral"><img alt="Guilh3rmeCabral Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilh3rmeCabral&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <a href="https://github.com/Guilh3rmeCabral"><img alt="Guilh3rmeCabral Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilh3rmeCabral&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+
   
 
 
