@@ -21,7 +21,7 @@
   <a href = "mailto:guicabralprowork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-cabral-971994209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
-
+<!--
 ## Studying
 <img align="center" alt="Gui-TypeScript" height="28" width="28" src="https://imgs.search.brave.com/wfLx7ZxOhR_1xScSDoA0W6J7yY5Pihj9_vS9uAkyfN4/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL1QvdHlwZXNj/cmlwdC1sb2dvLUIy/OUEzRjQ2MkQtc2Vl/a2xvZ28uY29tLnBu/Zw">
 
@@ -38,8 +38,7 @@
 
   <img align="center" alt="Gui-MySql" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 </div>
-  
-
+-->
   
 
 
