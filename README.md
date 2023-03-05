@@ -1,7 +1,7 @@
 ## Prazer! Eu sou Guilherme Cabral
 <div>
   <a href="https://github.com/Guilh3rmeCabral">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Guilh3rmeCabral&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api? [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilh3rmecabral)](https://github.com/anuraghazra/github-readme-stats)"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilh3rmeCabral&layout=compact&langs_count=16&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
