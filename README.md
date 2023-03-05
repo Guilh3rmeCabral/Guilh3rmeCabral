@@ -1,7 +1,7 @@
 ## Prazer! Eu sou Guilherme Cabral
 <div>
   <a href="https://github.com/Guilh3rmeCabral">
- 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilh3rmeCabral)](https://github.com/Guilh3rmeCabral/github-readme-stats)
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilh3rmeCabral&layout=compact&langs_count=16&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
