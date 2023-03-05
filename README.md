@@ -4,6 +4,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<!--Social Links-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-cabral-971994209/"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+</p>
+
+
 <div>
   <a href="https://github.com/Guilh3rmeCabral">
 </div>
