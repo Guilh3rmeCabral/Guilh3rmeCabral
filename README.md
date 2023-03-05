@@ -8,7 +8,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=High%20school%20Descomplica;Web%20and%20app%20developer;Drummer;Designer;Minecraft%20enthusiast%20%3A)&font=Fira%20Code&center=true&color=f75c7e&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
 </p>
 
-
 <!--Social Links-->
 ## Social Links 
 
@@ -17,6 +16,9 @@
   <a href = "mailto:guicabralprowork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-cabral-971994209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
+
+## Studying
+
 
 <div>
   <a href="https://github.com/Guilh3rmeCabral">
@@ -28,14 +30,11 @@
   <img align="center" alt="Gui-Php" height="35" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="center" alt="Gui-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Gui-TypeScript" height="30" width="40" src="https://imgs.search.brave.com/wfLx7ZxOhR_1xScSDoA0W6J7yY5Pihj9_vS9uAkyfN4/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL1QvdHlwZXNj/cmlwdC1sb2dvLUIy/OUEzRjQ2MkQtc2Vl/a2xvZ28uY29tLnBu/Zw"
   <img align="center" alt="Gui-MySql" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-  <img align=right src='https://media.tenor.com/images/73b121d0abbc19c03d09cdc7a2ef5da4/tenor.gif' width='200px'></img>
 </div>
   
 
   
-<div>
-
-</div>
 
 
