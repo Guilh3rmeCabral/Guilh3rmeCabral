@@ -10,7 +10,9 @@
 
 
 <!--Social Links-->
-<p align="center">
+## Social Links 
+
+<p align="left">
   <a href="https://github.com/Guilh3rmeCabral" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:guicabralprowork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-cabral-971994209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -30,7 +32,7 @@
   <img align=right src='https://media.tenor.com/images/73b121d0abbc19c03d09cdc7a2ef5da4/tenor.gif' width='200px'></img>
 </div>
   
-## Contatos
+
   
 <div>
 
