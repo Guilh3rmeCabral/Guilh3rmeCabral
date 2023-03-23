@@ -17,8 +17,6 @@
 <h3 align="center">
   Social Links
 </h3>
-
-<br>
 <p align="center">______________________________________</p>
 <br>
 
@@ -31,8 +29,6 @@
 <h3 align="center">
   Skills
 </h3>
-
-<br>
 <p align="center">______________________________________</p>
 <br>
 
