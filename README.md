@@ -14,7 +14,9 @@
 </div>
 
 <!--Social Links-->
-## Social Links 
+<h3 align="center">
+  Social Links
+</h3>
 
 <div align="center">
   <a href="https://github.com/Guilh3rmeCabral" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -22,7 +24,9 @@
   <a href="https://www.linkedin.com/in/guilherme-cabral-971994209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## Tecnologias 
+<h3 align="center">
+  Skills
+</h3>
 
 <div align="center" style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
