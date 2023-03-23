@@ -21,24 +21,18 @@
   <a href = "mailto:guicabralprowork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-cabral-971994209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
-<!--
-## Studying
-<img align="center" alt="Gui-TypeScript" height="28" width="28" src="https://imgs.search.brave.com/wfLx7ZxOhR_1xScSDoA0W6J7yY5Pihj9_vS9uAkyfN4/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL1QvdHlwZXNj/cmlwdC1sb2dvLUIy/OUEzRjQ2MkQtc2Vl/a2xvZ28uY29tLnBu/Zw">
 
-<div>
-  <a href="https://github.com/Guilh3rmeCabral">
-</div>
+## Tecnologias 
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Php" height="35" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
-  <img align="center" alt="Gui-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <img align="center" alt="Gui-MySql" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" src="	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
--->
   
 
 
