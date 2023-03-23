@@ -18,6 +18,10 @@
   Social Links
 </h3>
 
+<br>
+<p align="center">______________________________________</p>
+<br>
+
 <div align="center">
   <a href="https://github.com/Guilh3rmeCabral" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:guicabralprowork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -27,6 +31,10 @@
 <h3 align="center">
   Skills
 </h3>
+
+<br>
+<p align="center">______________________________________</p>
+<br>
 
 <div align="center" style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
