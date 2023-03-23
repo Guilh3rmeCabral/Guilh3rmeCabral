@@ -17,7 +17,7 @@
 <h3 align="center">
   Social Links
 </h3>
-<p align="center">______________________________________</p>
+<p align="center">------------------------------</p>
 <br>
 
 <div align="center">
@@ -29,7 +29,7 @@
 <h3 align="center">
   Skills
 </h3>
-<p align="center">______________________________________</p>
+<p align="center">------------------------------</p>
 <br>
 
 <div align="center" style="display: inline_block">
