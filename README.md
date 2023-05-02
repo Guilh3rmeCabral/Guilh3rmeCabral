@@ -1,10 +1,9 @@
 
 <h3 align="center">
   Welcome to my profile!
-  
-![Clip path group](https://user-images.githubusercontent.com/81389142/235785116-c2181d23-8391-4850-8cb0-98497e7a6a45.png)
-
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
+  ![Clip path group](https://user-images.githubusercontent.com/81389142/235785116-c2181d23-8391-4850-8cb0-98497e7a6a45.png)
 </h3>
 
 <p align="center">
