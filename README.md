@@ -1,9 +1,5 @@
 
-<h3 align="center">
-  Welcome to my profile!
-  <img https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<div align="center">
+<div align="center" top="-20px">
   <img align="center" src="https://user-images.githubusercontent.com/81389142/235785867-c22fe6e7-9674-458f-8471-a96685e64a36.png">           
 </div>
 <p align="center">
