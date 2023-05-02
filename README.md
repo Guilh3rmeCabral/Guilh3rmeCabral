@@ -1,7 +1,8 @@
 
 <h3 align="center">
   Welcome to my profile!
-  ![Portfolio-logo-345](https://user-images.githubusercontent.com/81389142/235784971-0bb43e64-a778-40ee-8586-3a3787be6588.svg)
+  
+![Clip path group](https://user-images.githubusercontent.com/81389142/235785116-c2181d23-8391-4850-8cb0-98497e7a6a45.png)
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
