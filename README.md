@@ -42,6 +42,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
   
-
+  ![Snake animation](https://github.com/Daaaiii/Daaaiii/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Logo contém direito autoral -->
